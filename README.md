@@ -1,2 +1,2 @@
 # DL-OneNet
-hw2 for deep learning course
+hw2 - deep learning course
